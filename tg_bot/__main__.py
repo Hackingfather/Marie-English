@@ -22,8 +22,7 @@ Hey {} ! My name is {} - I'm here to help you manage your groups!... Click /Help
 
 Made with love by [this guy](tg://user?id={}).
 
-My future updates will be put into This Group - @CuratorCrew
-
+My future updates will be put into This Group - @hackerstationhelper
 I'm built in python3, using the python-telegram-bot library.
 
 You can find the list of available commands with /help.🙂
